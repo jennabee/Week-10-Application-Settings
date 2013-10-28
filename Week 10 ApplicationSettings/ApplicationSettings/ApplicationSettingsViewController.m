@@ -2,7 +2,7 @@
 //  ApplicationSettingsViewController.m
 //  ApplicationSettings
 //
-//  Created by Wei-Meng Lee on 3/8/11.
+//  Created by Jennifer SExton on 3/8/11.
 //  Copyright 2011 __MyCompanyName__. All rights reserved.
 //
 
