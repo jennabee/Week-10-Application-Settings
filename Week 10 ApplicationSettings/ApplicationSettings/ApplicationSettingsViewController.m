@@ -23,9 +23,9 @@ NSString *favoriteColorSelected;
 - (void)viewDidLoad {
     //---create an array containing the colors values---
     colors = [[NSMutableArray alloc] init];
-    [colors addObject:@"Red"];
-    [colors addObject:@"Green"];
-    [colors addObject:@"Blue"];
+    [colors addObject:@"Yellow"];
+    [colors addObject:@"Purple"];
+    [colors addObject:@"Orange"];
     [super viewDidLoad];
 }
 
